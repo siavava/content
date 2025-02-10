@@ -159,5 +159,8 @@
       },
       "emitCJS": true
     }
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["better-sqlite3"]
   }
 }
